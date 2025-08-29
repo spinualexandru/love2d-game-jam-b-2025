@@ -1,0 +1,16 @@
+{
+  "name": "lovejam",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Alexandru-Mihai Spinu (Zyth)",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
